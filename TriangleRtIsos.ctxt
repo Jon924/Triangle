@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TriangleRtIsos
+comment0.text=\n\ Write\ a\ description\ of\ class\ TriangleRtIsos\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=s
+comment1.target=TriangleRtIsos(double)
+comment2.params=
+comment2.target=double\ calcArea()
+comment3.params=
+comment3.target=double\ calcPerimeter()
+numComments=4
